@@ -1,4 +1,6 @@
-# Histogram and Histogram Equalization of an image
+### EX NO : 04
+### DATE  : 26.04.2022
+# <p align="center">Histogram and Histogram Equalization of an image</p>
 ## AIM:
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
